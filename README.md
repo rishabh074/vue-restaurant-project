@@ -45,6 +45,36 @@ The application simulates a real-world CRUD system where users can manage restau
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/Screenshot%202026-02-16%20143603.png)
+
+
+### ➕ Add Restaurant
+![Add Restaurant](screenshots/Screenshot%202026-02-16%20143623.png)
+
+
+### ✏️ Update Restaurant
+![Update Restaurant](screenshots/Screenshot%202026-02-16%20143955.png)
+
+### 🔐 Login Page
+![Sign Up Page](screenshots/Screenshot%202026-02-16%20144008.png)
+
+
+### 📝 Sign Up Page
+![Login Page](screenshots/Screenshot%202026-02-16%20143836.png)
+
+---
+
+## 📂 How To Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rishabh074/vue-restaurant-project.git
+
+
 ## 📂 How To Run Locally
 
 Clone the repository:
