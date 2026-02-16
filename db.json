@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "3f0c",
+      "name": "Rishabh",
+      "email": "abc@124",
+      "password": "1234567"
+    },
+    {
+      "id": "5826",
+      "name": "kush",
+      "email": "kush@124",
+      "password": "12347"
+    },
+    {
+      "id": "cdc0",
+      "name": "rishabh",
+      "email": "qsd@123",
+      "password": "1234"
+    },
+    {
+      "id": "b0f2",
+      "name": "rishabh2",
+      "email": "rish@1243",
+      "password": "12345"
+    },
+    {
+      "id": "75f8",
+      "name": "rishabh2",
+      "email": "rish@1243",
+      "password": "12345"
+    },
+    {
+      "id": "f0bf",
+      "name": "jenrj",
+      "email": "an@12",
+      "password": "122"
+    },
+    {
+      "id": "3a57",
+      "name": "rishabh",
+      "email": "rbc@123",
+      "password": "12345"
+    },
+    {
+      "id": "05d3",
+      "name": "rishabh",
+      "email": "Bedisunny82@",
+      "password": "1234"
+    },
+    {
+      "id": "fb7f",
+      "name": "Rishabh Singh",
+      "email": "singh@124",
+      "password": "12345"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "r001",
+      "name": "Spice Hub",
+      "contact": "9876543210",
+      "address": "MG Road, Bangalore"
+    },
+    {
+      "id": "r002",
+      "name": "Food Junction",
+      "contact": "9123456780",
+      "address": "Anna Nagar, Chennai"
+    },
+    {
+      "name": "Tandoori Tales",
+      "address": "Connaught Place, Delhi,11",
+      "contact": "9988776655",
+      "id": "r003"
+    }
+  ]
+}
